@@ -1,10 +1,5 @@
-[![](https://jitpack.io/v/wildma/IDCardCamera.svg)](https://jitpack.io/#wildma/IDCardCamera)
 
-# WildmaIDCardCamera
-Android自定义相机实现身份证拍照，并加入自动对焦与图片不规则裁剪
 
-### 效果图：
-![身份证来源网络虚拟构造](https://github.com/wildma/IDCardCamera/blob/master/screenshots/screenshot.jpg)
 
 ### 功能特点
 - 自定义相机界面
@@ -64,3 +59,4 @@ ps:如果对你有帮助，点下star就是对我最大的认可。
 - [CertificateCamera](https://github.com/smartown/CertificateCamera) 
 - [PhotoPolygonCropper](https://github.com/leanh215/PhotoPolygonCropper)
 - [SweetCamera](https://github.com/WellerV/SweetCamera)
+- [IDCardCamera](https://github.com/wildma/IDCardCamera)
